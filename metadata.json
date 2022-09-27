@@ -1,9 +1,9 @@
 {
   "name": "Branchy SFT",
   "symbol": "B-SFT",
-  "description": "The root of the Branches...",
-  "image": "<https://arweave.net/26YdhY_eAzv26YdhY1uu9uiA3nmDZYwP8MwZAultcE?ext=jpeg>",
-  "animation_url": "",
+  "description": "The root of the Branches that will uphold the future...",
+  "image": "https://raw.githubusercontent.com/BranchyFi/Branchy-SFT/main/branchy_card.png",
+  "animation_url": "https://raw.githubusercontent.com/BranchyFi/Branchy-SFT/main/branchy_card.png",
   "external_url": "https://branchy.finance",
   "attributes": [
     {
