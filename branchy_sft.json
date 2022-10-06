@@ -7,8 +7,12 @@
   "external_url": "https://branchy.finance",
   "attributes": [
     {
+      "trait_type": "TYPE",
+      "value": "ALPHA"
+    },
+    {
       "trait_type": "VIP",
       "value": "TRUNKS"
-    } 
+    }
   ]
 }
